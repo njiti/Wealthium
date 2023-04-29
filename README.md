@@ -81,10 +81,12 @@
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+SDGs we are combating are:
+* Financial Inclusion: Blockchain asset tokenization and lending can provide access to financial services to underserved populations who lack access to     traditional banking systems. This can help achieve SDG 1, which aims to eradicate poverty.
+* Access to Capital: Tokenization can enable small and medium-sized enterprises (SMEs) to access capital through initial coin offerings (ICOs) and security token offerings (STOs). This can help achieve SDG 8, which aims to promote sustained, inclusive, and sustainable economic growth.
+* Increased Transparency: Blockchain technology can provide increased transparency and traceability for tokenized assets, which can help reduce corruption and promote accountability. This can help achieve SDG 16, which aims to promote peace, justice, and strong institutions.
+* Sustainable Development: Tokenization can enable the creation of sustainable development bonds, which can be used to fund projects that promote sustainable development. This can help achieve SDG 13, which aims to take urgent action to combat climate change and its impacts.
+* Reduced Transaction Costs: Blockchain asset tokenization and lending can reduce transaction costs and increase efficiency, which can lead to lower costs for borrowers and lenders. This can help achieve SDG 10, which aims to reduce inequality and promote inclusive economic growth
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
