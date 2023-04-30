@@ -77,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Project Website][./images/Wealthium_logo.png]](https://tegveerg.georgetown.domains/Wealthium/)
 
 The project is built on the concept of tokenizing real-world assets on the blockchain in the form of Non-Fungible Tokens (NFTs). By leveraging NFTs, we seek to link real-world assets to the decentralized finance (DeFi) world. This will be achieved by utilizing NFTs in DeFi lending, insurance, decentralized exchanges (DEXs) trading, and other capabilities. We also plan to use NFT fractionalization to break illiquid properties into smaller, more liquid components. We hope to bridge the gap between physical and digital assets through these strategies to create a powerful and unified market. Some assets we intend to look into are stocks, real estate properties,vehicles,art,bonds,mutual funds,trademarks,copyrights,inventory,patemts,furniture etc.
 
