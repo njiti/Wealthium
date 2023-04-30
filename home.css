@@ -1,0 +1,259 @@
+body{
+    position: relative;
+    /* width: 950px;
+    height: 982px; */
+    background: #000000;
+}
+#welthium{
+position: absolute;
+width: 158px;
+height: 36px;
+left: 19px;
+top: 27px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 36px;
+color: #D4AF37;
+}
+#home{
+position: absolute;
+width: 58px;
+height: 24px;
+left: 358px;
+top: 56px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 24px;
+color: #FFFFFF;
+}
+#about{
+position: absolute;
+width: 61px;
+height: 24px;
+left: 667px;
+top: 56px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 24px;
+color: #D4AF37;
+}
+#contact{
+position: absolute;
+width: 90px;
+height: 24px;
+left: 968px;
+top: 56px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 24px;
+color: #FFFFFF;
+}
+#rectangle-login{
+    position: absolute;
+    width: 138px;
+    height: 53px;
+    left: 1069px;
+    top: 27px;
+    background: #E132DA;
+    border-radius: 20px;
+    text-align: center;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+/* line-height: 30px; */
+color: #FFFFFF;
+}
+#benefits{
+position: absolute;
+width: 164px;
+height: 48px;
+left: 32px;
+top: 110px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 23px;
+line-height: 48px;
+
+color: #D4AF37;
+}
+#rectangle-2{
+position: absolute;
+width: 240px;
+height: 240px;
+left: 32px;
+top: 192px;
+
+background: url(images/house.jpg), #D9D9D9;
+background-size: cover;
+background-repeat: no-repeat;
+}
+#rectangle-6{
+position: absolute;
+width: 240px;
+height: 120px;
+left: 32px;
+top: 434px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+
+color: #FFFFFF;
+background: #006400;
+border-radius: 5px;
+}
+#rectangle-3{
+position: absolute;
+width: 240px;
+height: 240px;
+left: 340px;
+top: 192px;
+background: url(images/car.jpg), #D9D9D9;
+background-size: cover;
+background-repeat: no-repeat;
+}
+#rectangle-7{
+    position: absolute;
+    width: 240px;
+    height: 120px;
+    left: 340px;
+    top: 434px;
+    text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+    background: #006400;
+    border-radius: 5px; 
+}
+#rectangle-4{
+    position: absolute;
+width: 240px;
+height: 240px;
+left: 650px;
+top: 192px;
+background: url(images/education.jpg), #D9D9D9;
+background-size: cover;
+background-repeat: no-repeat;
+}
+#rectangle-8{
+position: absolute;
+width: 240px;
+height: 120px;
+left: 650px;
+top: 434px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+background: #006400;
+border-radius: 5px;
+}
+#rectangle-5{
+position: absolute;
+width: 240px;
+height: 240px;
+left: 950px;
+top: 192px;
+background: url(images/investment.jpg), #D9D9D9;
+background-size: cover;
+background-repeat: no-repeat;
+}
+#rectangle-9{
+    position: absolute;
+width: 240px;
+height: 120px;
+left: 950px;
+top: 434px;
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+background: #006400;
+border-radius: 5px;
+}
+#footer{
+position: absolute;
+width: 1173px;
+height: 163px;
+left: 32px;
+top: 821px;
+background: #006400;
+border-radius: 5px;
+}
+#footer-label{
+position: absolute;
+width: 105px;
+height: 36px;
+left: 623px;
+top: 821px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+color: #FFFFFF;
+}
+#phone-label{
+position: absolute;
+width: 106px;
+height: 36px;
+left: 38px;
+top: 867px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+
+color: #FFFFFF;
+}
+#email-label{
+position: absolute;
+width: 106px;
+height: 36px;
+left: 38px;
+top: 920px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+color: #FFFFFF;
+}
+#linkedin-label{
+    position: absolute;
+width: 127px;
+height: 36px;
+left: 467px;
+top: 867px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 36px;
+color: #FFFFFF;
+}
