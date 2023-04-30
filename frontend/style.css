@@ -77,7 +77,7 @@ nav {
 }
 
 #body {
-  background-color: #d8e1fa;
+  background-color: #100f0d;
 }
 
 .container {
@@ -85,12 +85,16 @@ nav {
   margin: 0 auto;
   text-align: center;
   padding: 50px 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
 }
 
 .content {
   max-width: 1200px;
   margin: 0 auto;
   padding: 50px 20px;
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
 }
 
 .row {
@@ -98,7 +102,85 @@ nav {
   flex-wrap: wrap;
   justify-content: center;
   align-items: stretch;
+  margin-top: 50px;
 }
-  
 
-  
+.col {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.left {
+  width: 30%;
+  position: relative;
+  padding-right: 20px;
+}
+
+.left h2 {
+  margin-top: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.middle {
+  width: 40%;
+  position: relative;
+  top: 20%;
+  padding-left: 40px;
+}
+
+.right {
+  width: 30%;
+  position: relative;
+  padding-left: 40px;
+  transform: scale(1.1);
+}
+
+.gold-line {
+  position: absolute;
+  top: 0;
+  left: 100%;
+  width: 5px;
+  height: 100%;
+  background-color: #DAA520;
+}
+
+.middle p {
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.right img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+@media (min-width: 768px) {
+  .col {
+    width: 33.33%;
+    margin-bottom: 0;
+  }
+}
+
+.golden-line {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px 0;
+}
+
+.golden-line .cube {
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  background-color: #ffd700;
+  border-radius: 50%;
+}
+
+.golden-line .cube:last-child {
+  margin-right: 0;
+}
